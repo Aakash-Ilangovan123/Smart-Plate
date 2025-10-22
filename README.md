@@ -1,5 +1,5 @@
 # Smart-Plate
-•Smart Plate uses AI, IoT and embedded systems to help health conscious users and nutritionists identify food, analyze its nutrition, and detect freshness or spoilage
+
 🥗 Smart Plate 🍽️
 Smart Plate is an AI-powered, IoT-enabled food analysis and nutrition monitoring system designed to help users make healthier dietary choices. It classifies food, detects spoilage, and provides nutritional insights using computer vision, sensors, and real-time analysis.
 
@@ -12,6 +12,7 @@ Smart Plate is designed to assist users—especially health-conscious individual
 ⚠️ Spoilage Detection: Hardware sensors detect spoiled or unsafe food.
 🌐 Web Dashboard: View live results and nutritional insights from any device.
 ♻️ Eco-friendly Design: Prototype built using sustainable materials (like bamboo).
+
 🧠 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Python Flask
@@ -19,12 +20,14 @@ AI Models: CNN, PaddleOCR, Transfer Learning
 IoT: Arduino / ESP32, gas sensors, moisture sensors
 Database: MongoDB / Firebase (optional)
 Cloud & Deployment: (Add if applicable)
+
 🛠️ How It Works
 The user places food on the Smart Plate.
 A camera captures the food image.
 AI model classifies the food and estimates its nutrient composition.
 Sensors check for signs of spoilage.
 All results are displayed on a web interface and stored for tracking.
+
 🔧 Requirements
 Python 3.x
 OpenCV
